@@ -8,7 +8,7 @@ const Footer = (props) => {
     <footer style={bgStyle} className="mt-auto py-5 text-center ">
       <Container>
         {props.children}
-        <i className="fas fa-code d-none d-sm-inline" /> with <i className="fas fa-heart d-none d-sm-inline" /> by{" "}
+        <i className="fas fa-code custom-icon" /> with <i className="fas fa-heart custom-icon" /> by{" "}
         <a
           rel="noopener"
           href="https://github.com/jarrydgoss"
@@ -17,7 +17,7 @@ const Footer = (props) => {
             Jarryd G
           </span>
         </a>{" "}
-        using <i className="fab fa-react d-none d-sm-inline" />
+        using <i className="fab fa-react custom-icon" />
         <p>
           <small className="text-muted">
           </small>
