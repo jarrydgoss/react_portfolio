@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.fe927caf.css",
-    "main.js": "/react_portfolio/static/js/main.695a7a95.js",
+    "main.css": "/react_portfolio/static/css/main.7838d778.css",
+    "main.js": "/react_portfolio/static/js/main.49e18dc5.js",
     "static/js/787.a2cb61a6.chunk.js": "/react_portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/atos_eviden.png": "/react_portfolio/static/media/atos_eviden.bde56a7b818483dd8232.png",
     "static/media/defence.png": "/react_portfolio/static/media/defence.ab2d16de9bbdfe938442.png",
     "static/media/LinkedIn Photo.jpg": "/react_portfolio/static/media/LinkedIn Photo.ef1b467eff2c8d89b27c.jpg",
     "index.html": "/react_portfolio/index.html",
-    "main.fe927caf.css.map": "/react_portfolio/static/css/main.fe927caf.css.map",
-    "main.695a7a95.js.map": "/react_portfolio/static/js/main.695a7a95.js.map",
+    "main.7838d778.css.map": "/react_portfolio/static/css/main.7838d778.css.map",
+    "main.49e18dc5.js.map": "/react_portfolio/static/js/main.49e18dc5.js.map",
     "787.a2cb61a6.chunk.js.map": "/react_portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe927caf.css",
-    "static/js/main.695a7a95.js"
+    "static/css/main.7838d778.css",
+    "static/js/main.49e18dc5.js"
   ]
 }
