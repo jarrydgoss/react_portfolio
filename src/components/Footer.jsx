@@ -8,16 +8,16 @@ const Footer = (props) => {
     <footer style={bgStyle} className="mt-auto py-5 text-center ">
       <Container>
         {props.children}
-        <i className="fas fa-code" /> with <i className="fas fa-heart" /> by{" "}
+        <i className="fas fa-code d-none d-sm-inline" /> with <i className="fas fa-heart d-none d-sm-inline" /> by{" "}
         <a
           rel="noopener"
           href="https://github.com/jarrydgoss"
           aria-label="My GitHub"
         > <span className="badge bg-dark">
-            Jarryd Goss
+            Jarryd G
           </span>
         </a>{" "}
-        using <i className="fab fa-react" />
+        using <i className="fab fa-react d-none d-sm-inline" />
         <p>
           <small className="text-muted">
           </small>
