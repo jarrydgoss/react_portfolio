@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/LinkedIn Photo.jpg"),
   imageSize: 375,
   message:
-    "Hi, I'm Jarryd, your friendly neighbourhood Data Professional. I'm passionate about Data Analytics, especially the Engineering side of things. There's something incredibly satisfying about creating Data Solutions that empower businesses and people to use their data effectively. I love helping others unlock the true potential of their data, turning it into insights that drive smart decisions. It's not just a job for me, it's a passion 😉",
+    "Yooo, it's your boy J, a.k.a The Data Guy! I'm passionate about all things Data Analytics, with a particular focus on Data Engineering. There's something incredibly satisfying about creating Data Solutions that empower businesses and people to use their data effectively. I love helping others unlock the true potential of their data, turning it into insights that drive smart decisions. It's not just a job for me, it's a passion 😉",
   resume: "https://docs.google.com/document/d/11xq0EbYGTbdRbx0S5IpQw-jMy__WztCav_yinJVe63o/edit?usp=sharing",
 };
 
